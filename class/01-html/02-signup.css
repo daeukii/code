@@ -1,0 +1,27 @@
+.container{
+    width: 670px;
+    height: 960px;
+    top: 60px;
+    left: 625px;
+    border-radius: 20px;
+    border: 1px solid blue;
+}
+.text{
+    border-style:hidden;
+    border-bottom: 1px solid gray;
+}
+
+h3{
+    color: rgb(39, 117, 226);
+}
+.select{
+            display: flex;
+            flex-direction: column;
+            justify-content: space-around;
+            align-items: center;
+            padding: 50px;
+}
+
+.btn{
+    width: 400px;
+}
